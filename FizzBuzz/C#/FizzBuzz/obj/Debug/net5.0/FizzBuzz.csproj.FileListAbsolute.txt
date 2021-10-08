@@ -1,0 +1,15 @@
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/bin/Debug/net5.0/FizzBuzz.deps.json
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.json
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.dev.json
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/bin/Debug/net5.0/FizzBuzz.dll
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/bin/Debug/net5.0/ref/FizzBuzz.dll
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/bin/Debug/net5.0/FizzBuzz.pdb
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csprojAssemblyReference.cache
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/obj/Debug/net5.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfo.cs
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/obj/Debug/net5.0/FizzBuzz.dll
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/obj/Debug/net5.0/ref/FizzBuzz.dll
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/obj/Debug/net5.0/FizzBuzz.pdb
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/obj/Debug/net5.0/FizzBuzz.genruntimeconfig.cache
