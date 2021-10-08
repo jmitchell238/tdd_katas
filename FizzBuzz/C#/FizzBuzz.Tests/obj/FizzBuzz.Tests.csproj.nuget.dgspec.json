@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz.Tests/FizzBuzz.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz.Tests/FizzBuzz.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz.Tests/FizzBuzz.Tests.csproj",
+        "projectName": "FizzBuzz.Tests",
+        "projectPath": "/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz.Tests/FizzBuzz.Tests.csproj",
+        "packagesPath": "/Users/jamesm.mitchell/.nuget/packages/",
+        "outputPath": "/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jamesm.mitchell/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/RamseySolutions/_packaging/RamseySolutions%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/FizzBuzz.csproj": {
+                "projectPath": "/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/FizzBuzz.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/jamesm.mitchell/.dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/FizzBuzz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/FizzBuzz.csproj",
+        "projectName": "FizzBuzz",
+        "projectPath": "/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/FizzBuzz.csproj",
+        "packagesPath": "/Users/jamesm.mitchell/.nuget/packages/",
+        "outputPath": "/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/FizzBuzz/C#/FizzBuzz/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jamesm.mitchell/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/RamseySolutions/_packaging/RamseySolutions%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/jamesm.mitchell/.dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
