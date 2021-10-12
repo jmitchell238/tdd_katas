@@ -1,0 +1,15 @@
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/bin/Debug/net5.0/Bowling.deps.json
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/bin/Debug/net5.0/Bowling.runtimeconfig.json
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/bin/Debug/net5.0/Bowling.runtimeconfig.dev.json
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/bin/Debug/net5.0/Bowling.dll
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/bin/Debug/net5.0/ref/Bowling.dll
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/bin/Debug/net5.0/Bowling.pdb
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/obj/Debug/net5.0/Bowling.csprojAssemblyReference.cache
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/obj/Debug/net5.0/Bowling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/obj/Debug/net5.0/Bowling.AssemblyInfoInputs.cache
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/obj/Debug/net5.0/Bowling.AssemblyInfo.cs
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/obj/Debug/net5.0/Bowling.csproj.CoreCompileInputs.cache
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/obj/Debug/net5.0/Bowling.dll
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/obj/Debug/net5.0/ref/Bowling.dll
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/obj/Debug/net5.0/Bowling.pdb
+/Users/jamesm.mitchell/JamesWorkspace/tdd_katas/Bowling/C#/Bowling/obj/Debug/net5.0/Bowling.genruntimeconfig.cache
