@@ -10,13 +10,11 @@ namespace Bowling
             
             foreach (var pins in args)
             {
-                if (!int.TryParse(pins, out var pintsInt))
-                {
-                    continue;
-                }
+                if (!int.TryParse(pins, out var pintsInt)) continue;
+
                 game.Roll(pintsInt);
             }
-            Console.WriteLine("Your score is 133");
+            Console.WriteLine($"Your score is {game.Score()}");
         }
     }
 }
